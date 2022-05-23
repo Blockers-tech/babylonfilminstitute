@@ -47,6 +47,14 @@ h2 {
   color: #372c18;
 }
 
+@media only screen and (max-width: 320px) {
+
+  body { 
+     font-size: 2em; 
+  }
+
+}
+
 p {
   text-align: center;
   margin: 18px;
